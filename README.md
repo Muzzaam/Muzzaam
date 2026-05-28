@@ -1,19 +1,13 @@
 # Hey there! 👋
 
-I'm [Your Name], a CS honours student based in [City, South Africa].
-
+I'm Muzzammil Soofie, a Wits CS honours student based in Gauteng.
 I build things across the stack — frontend, backend, and lately a lot of data and ML stuff.
-
-If I'm curious about something, I'll usually try to build it instead of just reading about it.
-
-My main tech stack is React, TypeScript, Python, and Node. My favorite tools are VS Code, Figma, and a notebook I keep way too close to my desk.
-
-I've got a few pinned projects, but my favorite is [Your Favorite Project].
-
+If I'm really curious about something, I'll try to create my own interpretation of it — I believe mastery is self-expression.
+My favorite project so far is a Snake game I built in second year, because it opened my mind to a new way of problem solving.
 Most of my work lives here on GitHub, but I've got plenty more half-finished experiments sitting in private repos.
 
 **Fun Facts:**
 - Currently finishing my honours in CS
-- [something you like — e.g. I drink way too much coffee]
-- [a hobby — e.g. into chess / gaming / running]
-- **Hobbies:** [e.g. coding, gym, building random side projects]
+- I can do a one-arm pull-up
+- I was once top 50 in Rocket League in South Africa
+- Hobbies: calisthenics, rock climbing, gaming, and learning
