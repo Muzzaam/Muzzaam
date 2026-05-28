@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Muzzaam/Muzzaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a CS honours student based in [City, South Africa].
 
-Here are some ideas to get you started:
+I build things across the stack — frontend, backend, and lately a lot of data and ML stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I'm curious about something, I'll usually try to build it instead of just reading about it.
+
+My main tech stack is React, TypeScript, Python, and Node. My favorite tools are VS Code, Figma, and a notebook I keep way too close to my desk.
+
+I've got a few pinned projects, but my favorite is [Your Favorite Project].
+
+Most of my work lives here on GitHub, but I've got plenty more half-finished experiments sitting in private repos.
+
+**Fun Facts:**
+- Currently finishing my honours in CS
+- [something you like — e.g. I drink way too much coffee]
+- [a hobby — e.g. into chess / gaming / running]
+- **Hobbies:** [e.g. coding, gym, building random side projects]
